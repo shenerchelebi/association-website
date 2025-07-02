@@ -1,0 +1,9 @@
+// pages/index.js
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', paddingTop: '50px' }}>
+      <h1>Welcome to the Association of Turks in Bulgaria</h1>
+      <p>Official website landing page coming soon.</p>
+    </div>
+  );
+}
