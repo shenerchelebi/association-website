@@ -1,1 +1,0 @@
-Static files go here (e.g., logo.png, favicon.ico)
