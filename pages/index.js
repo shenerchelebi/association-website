@@ -1,7 +1,4 @@
-
 import Head from 'next/head';
-import Image from 'next/image';
-
 
 export default function Home() {
   return (
@@ -32,7 +29,7 @@ export default function Home() {
         </section>
       </main>
       <footer>
-        <p>info@bulgaristanturks.org.uk</p>
+        <p>info@bulgaristanturcks.org.uk</p>
       </footer>
     </div>
   );
