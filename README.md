@@ -1,3 +1,3 @@
 # Association of Turks in Bulgaria
 
-Official website landing page.
+Multi-page site with basic layout and navigation.

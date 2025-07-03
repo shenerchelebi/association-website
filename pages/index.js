@@ -1,9 +1,11 @@
 
-export default function Home() {
+import Layout from "./_layout";
+
+export default function Index() {
   return (
-    <div style={{ fontFamily: 'Arial', textAlign: 'center', padding: '50px' }}>
-      <h1>Association of Turks in Bulgaria</h1>
-      <p>Welcome to our official website. More updates coming soon.</p>
-    </div>
+    <Layout>
+      <h2>Welcome</h2>
+      <p>This is the welcome page of the Association of Turks in Bulgaria website.</p>
+    </Layout>
   );
 }
